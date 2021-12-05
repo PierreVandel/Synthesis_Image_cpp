@@ -14,6 +14,6 @@ Phong shading, is already enabled by default.
 For texturing, an image is provided for you to try. To test the texturing, you need to add the image in the properties when implementing any quadric in the texture section.
 
 
-/!\Please note, all these features are available in the latest version/!\
+Please note, all these features are available in the latest version !
 
 For other features, I'll let you discover.
