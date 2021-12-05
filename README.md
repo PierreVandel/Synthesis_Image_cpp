@@ -9,4 +9,6 @@ If you have problems while running the program, try cleaning up the solution, th
 
 After running the program, to create a scene: File > New Scene. To insert a quadric: Insert > Revolution cylinder (for example). When inserting a quadric, in these properties, you can add a texture to it. To add a light: Insert > Light source. To control the camera: Display > Camera controls.
 
+Phong shading, is already enabled by default.
+
 For other features, I'll let you discover.
