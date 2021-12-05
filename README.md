@@ -11,4 +11,6 @@ After running the program, to create a scene: File > New Scene. To insert a quad
 
 Phong shading, is already enabled by default.
 
+For texturing, an image is provided for you to try. To test the texturing, you need to add the image in the properties when implementing any quadric in the texture section
+
 For other features, I'll let you discover.
